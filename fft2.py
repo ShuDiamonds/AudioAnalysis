@@ -81,4 +81,4 @@ class SpectrumAnalyzer:
         plt.pause(.01)
 
 if __name__ == "__main__":
-spec = SpectrumAnalyzer()
+	spec = SpectrumAnalyzer()
